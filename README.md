@@ -55,7 +55,7 @@ Lane-Detection/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Mohitpr1314/lane-detection-opencv.git
+git clone https://github.com/ashishpatel46/Lane-Tracking-Assistance-System.git
 
 ```
 
