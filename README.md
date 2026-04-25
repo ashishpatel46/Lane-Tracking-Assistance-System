@@ -1,4 +1,4 @@
-# Lane Tracking & Assistance System Using OpenCV (Python)
+# Lane Detection Using OpenCV (Python)
 
 This project implements a **lane detection system** using classical **computer vision techniques**.  
 It processes a road video frame by frame, detects lane lines, and draws them on the output video.
